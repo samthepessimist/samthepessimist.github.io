@@ -20,50 +20,6 @@ I am a third year ICT Applications Development student with a strong foundation 
 
 ---
 
-## 💼 Projects  
-
-### 🟢 KeepITBlue  
-*November 2024*  
-
-- Worked in a team to build an interactive environmental awareness platform.  
-- Developed front-end components using HTML, CSS, and JavaScript.  
-- Contributed to UI/UX improvements and functionality.  
-
----
-
-### 🟢 Multithreaded HTTP Server  
-*August 2025*  
-
-- Built a fully functional Java web server capable of hosting static websites.  
-- Implemented multi-threaded request handling to support multiple simultaneous connections.  
-- Designed robust error handling for reliable server performance.  
-- Used JSON-based configuration for flexible server setup.  
-- Developed a comprehensive test suite to ensure stability and correctness.  
-
----
-
-### 🟢 Facial Recognition System  
-*September 2025*  
-
-- Developed a real-time facial recognition system using Python and OpenCV.  
-- Implemented feature encoding and live matching for accurate identification via webcam.  
-- Enabled recognition against stored image datasets.  
-- Applied computer vision and machine learning techniques to build an intelligent recognition system.  
-
----
-
-### 🟢 CivicFix AI  
-*March 2026*  
-
-- Built an AI-powered municipal and maintenance fault reporting platform.  
-- Integrated image classification to automatically detect and categorize reported issues (e.g., potholes, water leaks, damaged infrastructure) from user-submitted images.  
-- Utilized geolocation services to accurately pinpoint the exact location of reported faults for efficient municipal response.  
-- Combined AI predictions with data analytics to identify trends, high-risk areas, and recurring infrastructure problems.  
-- Developed frontend and backend systems, including reporting workflows, authentication, and admin dashboards.  
-- Focused on delivering a scalable, intelligent solution for real-world civic challenges.  
-
----
-
 ## 🎓 Education  
 
 **Lenasia Secondary School**  
