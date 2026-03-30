@@ -70,7 +70,8 @@ Diploma in ICT Application Development
 
 ## 🔗 Links  
 
-- 💻 GitHub: https://github.com/samthepessimist  
+- 💻 GitHub: https://github.com/samthepessimist
+- 💻 YouTube(mock-interview link): https://youtu.be/BV21lLlCVE0    
 
 ---
 
