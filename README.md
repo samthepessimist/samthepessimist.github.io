@@ -87,5 +87,5 @@ Diploma in ICT Application Development
 📧 Email: mrtinstitute459@gmail.com  
 
 ## 💻 Mock Interview Video
-<video width="600" controls src="mock-interview.mp4">
+<video width="600" height="600" controls src="mock-interview.mp4">
 </video>
