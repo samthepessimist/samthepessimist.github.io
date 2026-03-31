@@ -70,8 +70,7 @@ Diploma in ICT Application Development
 
 ## 🔗 Links  
 
-- 💻 GitHub: https://github.com/samthepessimist
-- 💻 YouTube(mock-interview link): https://youtu.be/BV21lLlCVE0    
+- 💻 GitHub: https://github.com/samthepessimist  
 
 ---
 
@@ -86,3 +85,7 @@ Diploma in ICT Application Development
 🏢 MRT Institute  
 📱 Phone: 065 976 3137  
 📧 Email: mrtinstitute459@gmail.com  
+
+## 💻 Mock Interview Video
+<video width="600" controls src="mock-interview.mp4">
+</video>
