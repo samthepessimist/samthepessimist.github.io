@@ -20,49 +20,6 @@ I am a third year ICT Applications Development student with a strong foundation 
 
 ---
 
-## 💼 Projects  
-
-### 🟢 CivicFix AI  
-*March 2026*  
-
-- Built an AI-powered municipal and maintenance fault reporting platform.  
-- Integrated image classification to automatically detect and categorize reported issues (e.g., potholes, water leaks, damaged infrastructure) from user-submitted images.  
-- Utilized geolocation services to accurately pinpoint the exact location of reported faults for efficient municipal response.  
-- Combined AI predictions with data analytics to identify trends, high-risk areas, and recurring infrastructure problems.  
-- Developed frontend and backend systems, including reporting workflows, authentication, and admin dashboards.    
-
----
-
-### 🟢 Facial Recognition System  
-*September 2025*  
-
-- Developed a real-time facial recognition system using Python and OpenCV.  
-- Implemented feature encoding and live matching for accurate identification via webcam.  
-- Enabled recognition against stored image datasets.  
-- Applied computer vision and machine learning techniques to build an intelligent recognition system.   
-
----
-
-### 🟢 Multithreaded HTTP Server  
-*August 2025*  
-
-- Built a fully functional Java web server capable of hosting static websites.  
-- Implemented multi-threaded request handling to support multiple simultaneous connections.  
-- Designed robust error handling for reliable server performance.  
-- Used JSON-based configuration for flexible server setup.  
-- Developed a comprehensive test suite to ensure stability and correctness.  
-
----
-
-### 🟢 KeepITBlue  
-*November 2024*  
-
-- Worked in a team to build an interactive environmental awareness platform.  
-- Developed front-end components using HTML, CSS, and JavaScript.  
-- Contributed to UI/UX improvements and functionality.  
-
----
-
 ## 🎓 Education  
 
 **Lenasia Secondary School**  
@@ -132,3 +89,20 @@ Diploma in ICT Application Development
 ## 💻 Mock Interview Video
 <video width="600" height="600" controls src="mock-interview.mp4">
 </video>
+
+---
+
+## 📘 Reflections  
+
+### 🟢 Reflection on Coding with Markdown (STAR Method)  
+During the process of building and refining my GitHub README, I needed a structured and professional way to present my projects, skills, and experience (Situation). The challenge was transforming unstructured content into something clear, visually appealing, and easy for recruiters to navigate (Task). I approached this by using Markdown to organize sections, apply consistent formatting, and highlight key projects such as CivicFix AI using concise bullet points and headings (Action). As a result, I produced a clean, well-structured README that effectively communicates my technical abilities and project impact, while also strengthening my ability to document and present work in a developer-friendly format (Result).  
+
+---
+
+### 🟢 Reflection on Mock Interview Video (STAR Method)  
+While preparing and recording my mock interview video, I was placed in a situation that required me to clearly communicate my skills, experiences, and thought process under pressure (Situation). The task was to present myself confidently while explaining technical concepts and past projects in a structured and professional way (Task). I addressed this by practicing common interview questions, structuring my responses using the STAR method, and focusing on clarity, tone, and body language during the recording (Action). As a result, I improved my ability to communicate technical ideas effectively, became more aware of my delivery, and identified areas for improvement such as reducing filler words and increasing confidence (Result).  
+
+---
+
+### 🟢 Reflection on Deploying with GitHub Pages (STAR Method)  
+While working on showcasing my projects, I needed a way to make my work accessible beyond just source code (Situation). The task was to deploy my project using GitHub Pages and integrate it into my README to create a more interactive and presentable portfolio (Task). I achieved this by configuring my repository for deployment, organizing project files correctly, and linking the live site within my README for easy access (Action). As a result, I transformed my project into a live, shareable application, improving its visibility and making it more engaging for recruiters and collaborators (Result).  
